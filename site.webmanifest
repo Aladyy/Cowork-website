@@ -1,0 +1,27 @@
+{
+  "name": "Proteck Assistance Informatique",
+  "short_name": "Proteck",
+  "lang": "fr",
+  "start_url": "/Cowork-website/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#111627",
+  "icons": [
+    {
+      "src": "/Cowork-website/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/Cowork-website/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/Cowork-website/icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

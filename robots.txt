@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /merci/
+
+Sitemap: https://proteckinformatique.fr/sitemap-index.xml
